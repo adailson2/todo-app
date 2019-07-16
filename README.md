@@ -1,4 +1,6 @@
 # Todo App
 Backend: NodeJS com Express
-Fontend: ReactJS, Redux
+
+Frontend: ReactJS, Redux
+
 Banco de dados: MongoDB
